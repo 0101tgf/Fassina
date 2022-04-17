@@ -1,0 +1,14 @@
+1 - Instalar o mysql-installer-community-8.0.28.0 que está dentro da pasta..
+
+2 - Após instalar mudar o protocolo de conexão com os comandos abaixado..
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456';
+flush privileges;
+
+3 - create database fassina;
+
+4 - mysql -hlocalhost -uroot -p123456 < fassina.sql
+
+5 - Compilar o sistema
+
+6 - Gestão de vendas / Operações / Emissão de vendas

@@ -1,0 +1,61 @@
+unit cCliente;
+
+interface
+
+uses System.Classes,
+     System.SysUtils,
+     FireDAC.Stan.Intf, FireDAC.Stan.Option, FireDAC.Stan.Error, FireDAC.UI.Intf,
+     FireDAC.Phys.Intf, FireDAC.Stan.Def, FireDAC.Stan.Pool, FireDAC.Stan.Async,
+     FireDAC.Phys, FireDAC.FMXUI.Wait, FireDAC.Stan.Param, FireDAC.DatS,
+     FireDAC.DApt.Intf, FireDAC.DApt, Data.DB, FireDAC.Comp.DataSet,
+     FireDAC.Comp.Client;
+
+type
+    TCliente = Class
+    private
+    FConexao: TFDConnection;
+    FCodEmp: integer;
+    FCodigo: integer;
+    FNome: string;
+    FCidade: string;
+    FUF: string;
+    FAtivo: Integer;
+
+    public
+    property Conexao: TFDConnection read FConexao write FConexao;
+    property CodEmp: integer read FCodEmp write FCodEmp;
+    property Codigo: integer read FCodigo write FCodigo;
+    property Nome: string read FNome write FNome;
+    property Cidade: string read FCidade write FCidade;
+    property UF: string read FUF write FUF;
+    property Ativo: Integer read FAtivo write FAtivo;
+    function fBuscaCliente(Codigo, CodEmp: Integer; out PRetorno:String):string;
+    constructor Create(AConexao:TFDConnection; ACodEmp: Integer);
+    destructor Destroy; override;
+    End;
+
+implementation
+
+{ TCliente }
+
+uses ufrmPrincipal;
+
+{$region 'CONSTRUTOR E DESTRUIDOR'}
+
+constructor TCliente.Create(AConexao: TFDConnection; ACodEmp: Integer);
+begin
+  Conexao := AConexao;
+  CodEmp := ACodEmp;
+end;
+
+destructor TCliente.Destroy;
+begin
+  inherited;
+end;
+{$endregion}
+
+{$region 'METODOS'}
+
+{$endregion}
+
+end.

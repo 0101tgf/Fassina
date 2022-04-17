@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/09 09:16:38.000.233,=C:\Users\0101tgf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/09 10:01:59.000.597,=C:\Users\0101tgf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/09 10:02:51.000.525,=C:\Users\0101tgf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/09 10:03:29.000.840,=C:\Users\0101tgf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/09 10:04:05.000.343,=C:\Users\0101tgf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/09 10:04:40.000.456,=C:\Users\0101tgf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/23 11:28:53.000.357,=C:\Users\0101tgf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/16 09:13:26.000.636,=C:\Users\0101tgf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/29 10:12:19.000.304,=C:\Users\0101tgf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 07:49:24.000.122,=C:\Users\0101tgf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 07:50:22.000.465,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\ufrmPrincipal.dfm=C:\Users\0101tgf\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/04/14 07:50:22.000.465,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\ufrmPrincipal.pas=C:\Users\0101tgf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 07:50:27.000.496,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Fassina.dproj=C:\Users\0101tgf\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/04/14 07:53:33.000.471,=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 07:53:51.000.551,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\ufrmLogin.dfm=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.dfm</Transaction>
+    <Transaction>2022/04/14 07:53:51.000.551,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\ufrmLogin.pas=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 09:52:30.000.240,=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 09:52:44.000.699,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\uDm.pas</Transaction>
+    <Transaction>2022/04/14 09:52:44.000.699,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.dfm=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\uDm.dfm</Transaction>
+    <Transaction>2022/04/14 10:01:17.000.448,=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 10:01:30.000.179,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\Classes\cUsuario.pas</Transaction>
+    <Transaction>2022/04/14 13:11:45.000.458,=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 13:11:52.000.829,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\ufrmVenda.pas</Transaction>
+    <Transaction>2022/04/14 13:11:52.000.829,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.dfm=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\ufrmVenda.dfm</Transaction>
+    <Transaction>2022/04/14 14:04:39.000.916,=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 14:04:50.000.619,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\Classes\cCliente.pas=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 15:27:48.000.206,=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 15:27:59.000.252,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\Classes\cProduto.pas</Transaction>
+    <Transaction>2022/04/14 16:57:49.000.709,=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 16:57:57.000.104,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\cPedido.pas=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 16:58:02.000.274,=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 16:58:11.000.481,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\cPedidoItem.pas=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 16:58:29.000.196,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\cPedido.pas=</Transaction>
+    <Transaction>2022/04/14 16:58:32.000.375,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\cPedidoItem.pas=</Transaction>
+    <Transaction>2022/04/14 16:59:02.000.387,=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\Classes\cPedido.pas</Transaction>
+    <Transaction>2022/04/14 16:59:09.000.909,=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\Classes\cPedidoItem.pas</Transaction>
+    <Transaction>2022/04/14 16:59:23.000.892,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\Classes\cPedidoItem.pas=</Transaction>
+    <Transaction>2022/04/14 16:59:56.000.389,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\Classes\cPedido.pas=</Transaction>
+    <Transaction>2022/04/14 17:00:04.000.403,=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 17:00:11.000.247,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\Classes\cVenda.pas=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/16 09:06:55.000.590,=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/16 09:07:44.000.103,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\ufrmOperacoesAux.pas=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.pas</Transaction>
+    <Transaction>2022/04/16 09:07:44.000.103,C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\src\ufrmOperacoesAux.dfm=C:\Users\0101tgf\Documents\Code\Delphi\Fontes\Fassina\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

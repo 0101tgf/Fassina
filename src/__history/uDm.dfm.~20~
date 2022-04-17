@@ -13,13 +13,12 @@ object Dm: TDm
   end
   object conexao: TFDConnection
     Params.Strings = (
-      'Server=localhost'
+      'Database=fassina'
       'User_Name=root'
       'Password=123456'
-      'Database=fassina'
-      'DriverID=MySQL')
-    LoginPrompt = False
-    Left = 192
-    Top = 112
+      'Server=localhost'
+      'DriverID=mySQL')
+    Left = 200
+    Top = 120
   end
 end

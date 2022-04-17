@@ -1,4 +1,4 @@
-1 - Instalar o mysql-installer-community-8.0.28.0 que está dentro da pasta..
+1 - Instalar o mysql-installer-community-8.0.28.0 donwload em https://dev.mysql.com/downloads/file/?id=510039
 
 2 - Após instalar mudar o protocolo de conexão com os comandos abaixado..
 

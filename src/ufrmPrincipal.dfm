@@ -1,7 +1,6 @@
 object frmPrincipal: TfrmPrincipal
   Left = 0
   Top = 0
-  Align = alClient
   Caption = 'Fassina - ERP'
   ClientHeight = 729
   ClientWidth = 1008
@@ -187,7 +186,6 @@ object frmPrincipal: TfrmPrincipal
         000000000001094F007000650072006100E700F50065007300320000000A0000
         000A000000FFFFFFFFFFFFFFFF000000000000000000000000010A520065006C
         0061007400F300720069006F007300}
-      ExplicitTop = 5
     end
   end
   object pnlContent: TPanel
